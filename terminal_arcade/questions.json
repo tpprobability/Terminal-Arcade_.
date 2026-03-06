@@ -1,0 +1,277 @@
+[
+  {
+    "q": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "correct": 2
+  },
+  {
+    "q": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 1
+  },
+  {
+    "q": "What is the largest planet in our solar system?",
+    "options": ["Saturn", "Neptune", "Jupiter", "Earth"],
+    "correct": 2
+  },
+  {
+    "q": "Who wrote Romeo and Juliet?",
+    "options": ["Jane Austen", "William Shakespeare", "Mark Twain", "Charles Dickens"],
+    "correct": 1
+  },
+  {
+    "q": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "correct": 2
+  },
+  {
+    "q": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "correct": 1
+  },
+  {
+    "q": "What is the chemical symbol for Gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct": 2
+  },
+  {
+    "q": "How many strings does a violin have?",
+    "options": ["4", "5", "6", "8"],
+    "correct": 0
+  },
+  {
+    "q": "What is the largest ocean on Earth?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "correct": 3
+  },
+  {
+    "q": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Michelangelo", "Raphael"],
+    "correct": 1
+  },
+  {
+    "q": "What is the capital of Japan?",
+    "options": ["Osaka", "Kyoto", "Tokyo", "Yokohama"],
+    "correct": 2
+  },
+  {
+    "q": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "correct": 2
+  },
+  {
+    "q": "What is the fastest land animal?",
+    "options": ["Lion", "Greyhound", "Cheetah", "Gazelle"],
+    "correct": 2
+  },
+  {
+    "q": "What year did the Titanic sink?",
+    "options": ["1912", "1915", "1920", "1905"],
+    "correct": 0
+  },
+  {
+    "q": "What is the smallest country in the world?",
+    "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+    "correct": 2
+  },
+  {
+    "q": "What is the currency of the United Kingdom?",
+    "options": ["Euro", "Pound Sterling", "Dollar", "Franc"],
+    "correct": 1
+  },
+  {
+    "q": "How many bones are in the human body?",
+    "options": ["186", "206", "226", "246"],
+    "correct": 1
+  },
+  {
+    "q": "What is the deepest ocean trench?",
+    "options": ["Tonga Trench", "Kuril-Kamchatka Trench", "Mariana Trench", "Philippine Trench"],
+    "correct": 2
+  },
+  {
+    "q": "Who invented the telephone?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Benjamin Franklin"],
+    "correct": 1
+  },
+  {
+    "q": "What is the highest mountain in the world?",
+    "options": ["K2", "Kangchenjunga", "Lhotse", "Mount Everest"],
+    "correct": 3
+  },
+  {
+    "q": "What is the chemical symbol for Silver?",
+    "options": ["Si", "Sn", "Ag", "Au"],
+    "correct": 2
+  },
+  {
+    "q": "Which country has the most population?",
+    "options": ["India", "USA", "Indonesia", "Pakistan"],
+    "correct": 0
+  },
+  {
+    "q": "What is the boiling point of water at sea level?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "correct": 1
+  },
+  {
+    "q": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "George Washington", "John Adams", "James Madison"],
+    "correct": 1
+  },
+  {
+    "q": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+    "correct": 2
+  },
+  {
+    "q": "What is the speed of light?",
+    "options": ["150,000 km/s", "300,000 km/s", "450,000 km/s", "600,000 km/s"],
+    "correct": 1
+  },
+  {
+    "q": "How many sides does an octagon have?",
+    "options": ["6", "8", "10", "12"],
+    "correct": 1
+  },
+  {
+    "q": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correct": 2
+  },
+  {
+    "q": "Who wrote 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+    "correct": 0
+  },
+  {
+    "q": "What is the Great Wall of China primarily made of?",
+    "options": ["Wood", "Stone and Brick", "Concrete", "Iron"],
+    "correct": 1
+  },
+  {
+    "q": "How many strings does a guitar have?",
+    "options": ["4", "5", "6", "7"],
+    "correct": 2
+  },
+  {
+    "q": "What is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "Salvador", "Brasília", "São Paulo"],
+    "correct": 2
+  },
+  {
+    "q": "Who invented the light bulb?",
+    "options": ["Nikola Tesla", "Thomas Edison", "Joseph Swan", "Lewis Latimer"],
+    "correct": 1
+  },
+  {
+    "q": "What percentage of the Earth is covered by water?",
+    "options": ["60%", "70%", "80%", "90%"],
+    "correct": 1
+  },
+  {
+    "q": "What is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "correct": 2
+  },
+  {
+    "q": "How many sides does a pentagon have?",
+    "options": ["4", "5", "6", "7"],
+    "correct": 1
+  },
+  {
+    "q": "What is the smallest state in the USA?",
+    "options": ["Vermont", "Delaware", "Rhode Island", "Connecticut"],
+    "correct": 2
+  },
+  {
+    "q": "Who composed Beethoven's symphonies?",
+    "options": ["Wolfgang Mozart", "Ludwig van Beethoven", "Johann Bach", "Franz Haydn"],
+    "correct": 1
+  },
+  {
+    "q": "What is the hottest planet in our solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "correct": 1
+  },
+  {
+    "q": "How many minutes are in a full week?",
+    "options": ["7200", "10080", "14400", "20160"],
+    "correct": 1
+  },
+  {
+    "q": "What is the capital of Egypt?",
+    "options": ["Alexandria", "Giza", "Cairo", "Luxor"],
+    "correct": 2
+  },
+  {
+    "q": "What is the largest desert in the world?",
+    "options": ["Gobi", "Kalahari", "Sahara", "Arabian"],
+    "correct": 2
+  },
+  {
+    "q": "Who wrote Pride and Prejudice?",
+    "options": ["Charlotte Brontë", "Emily Dickinson", "Jane Austen", "Mary Shelley"],
+    "correct": 2
+  },
+  {
+    "q": "What is the main ingredient in guacamole?",
+    "options": ["Lime", "Avocado", "Tomato", "Cilantro"],
+    "correct": 1
+  },
+  {
+    "q": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "correct": 1
+  },
+  {
+    "q": "What is the capital of Italy?",
+    "options": ["Milan", "Venice", "Rome", "Florence"],
+    "correct": 2
+  },
+  {
+    "q": "Who invented the airplane?",
+    "options": ["Thomas Edison", "Nikola Tesla", "Wright Brothers", "Leonardo da Vinci"],
+    "correct": 2
+  },
+  {
+    "q": "What is the largest country by area?",
+    "options": ["Canada", "USA", "Russia", "Australia"],
+    "correct": 2
+  },
+  {
+    "q": "How many sides does a hexagon have?",
+    "options": ["5", "6", "7", "8"],
+    "correct": 1
+  },
+  {
+    "q": "What is the capital of Germany?",
+    "options": ["Munich", "Hamburg", "Berlin", "Cologne"],
+    "correct": 2
+  },
+  {
+    "q": "Who wrote Frankenstein?",
+    "options": ["Mary Shelley", "Jane Austen", "Charlotte Brontë", "Emily Dickinson"],
+    "correct": 0
+  },
+  {
+    "q": "What is the most spoken language in the world?",
+    "options": ["Spanish", "English", "Mandarin Chinese", "Hindi"],
+    "correct": 2
+  },
+  {
+    "q": "How many zeros are in one billion?",
+    "options": ["6", "9", "12", "15"],
+    "correct": 1
+  },
+  {
+    "q": "What is the capital of Spain?",
+    "options": ["Barcelona", "Valencia", "Madrid", "Seville"],
+    "correct": 2
+  },
+  {
+    "q": "Who painted the Starry Night?",
+    "options": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Salvador Dalí"],
+    "correct": 1
+  }
+]

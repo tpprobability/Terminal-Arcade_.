@@ -1,0 +1,26 @@
+{
+  "hangman": [
+    "python", "terminal", "developer", "algorithm", "keyboard", "monitor", "database", "variable",
+    "function", "program", "computer", "software", "hardware", "network", "internet", "server",
+    "client", "browser", "website", "application", "framework", "library", "module", "package",
+    "compiler", "interpreter", "debugger", "testing", "security", "encryption", "password", "username",
+    "virus", "malware", "firewall", "router", "switch", "protocol", "bandwidth", "latency",
+    "threading", "process", "memory", "storage", "processor", "graphics", "display", "keyboard",
+    "mouse", "printer", "scanner", "camera", "microphone", "speaker", "monitor", "desktop",
+    "laptop", "tablet", "smartphone", "wearable", "smartwatch", "headphones", "charger", "battery",
+    "cable", "adapter", "router", "modem", "gateway", "proxy", "tunnel", "vpn",
+    "firewall", "antivirus", "malware", "ransomware", "trojan", "worm", "virus", "botnet"
+  ],
+  "wordle": [
+    "apple", "grape", "chair", "light", "house", "plant", "beach", "music",
+    "ocean", "mountain", "forest", "desert", "river", "cloud", "storm", "sunny",
+    "rainy", "windy", "snowy", "foggy", "night", "dream", "smile", "laugh",
+    "peace", "happy", "lucky", "brave", "smart", "proud", "quiet", "tired",
+    "angry", "scared", "sorry", "thank", "magic", "angel", "demon", "ghost",
+    "witch", "wizard", "sword", "shield", "armor", "crown", "throne", "castle",
+    "tower", "bridge", "stone", "brick", "glass", "metal", "wooden", "golden",
+    "silver", "bronze", "copper", "steel", "diamond", "pearl", "coral", "amber",
+    "space", "planet", "comet", "solar", "lunar", "stars", "earth", "water",
+    "flame", "frost", "storm", "peace", "fight", "dance", "laugh", "shout"
+  ]
+}
